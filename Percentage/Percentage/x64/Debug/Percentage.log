@@ -1,0 +1,3 @@
+﻿  Percentage.cpp
+F:\ITM C++\Percentage\Percentage\Percentage.cpp(33,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Percentage.vcxproj -> F:\ITM C++\Percentage\x64\Debug\Percentage.exe

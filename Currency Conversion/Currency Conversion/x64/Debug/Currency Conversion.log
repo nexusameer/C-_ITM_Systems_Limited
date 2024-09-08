@@ -1,0 +1,3 @@
+﻿  Currency Conversion.cpp
+F:\ITM C++\Currency Conversion\Currency Conversion\Currency Conversion.cpp(14,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Currency Conversion.vcxproj -> F:\ITM C++\Currency Conversion\x64\Debug\Currency Conversion.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ITM C\u002B\u002B\\Percentage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF133C2-EF94-4FCB-850C-752841FFDC43}|Percentage\\Percentage.vcxproj|F:\\ITM C\u002B\u002B\\Percentage\\Percentage\\Percentage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDF133C2-EF94-4FCB-850C-752841FFDC43}|Percentage\\Percentage.vcxproj|solutionrelative:Percentage\\Percentage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Percentage.cpp",
+              "DocumentMoniker": "F:\\ITM C\u002B\u002B\\Percentage\\Percentage\\Percentage.cpp",
+              "RelativeDocumentMoniker": "Percentage\\Percentage.cpp",
+              "ToolTip": "F:\\ITM C\u002B\u002B\\Percentage\\Percentage\\Percentage.cpp",
+              "RelativeToolTip": "Percentage\\Percentage.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-02T16:15:42.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
